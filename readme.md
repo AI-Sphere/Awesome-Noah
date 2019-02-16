@@ -5,16 +5,6 @@ A curated list of awesome AI Competitions codes, insights and post-match summari
 
 AI圈维护的-精彩的人工智能比赛代码、思路和赛后总结。
 
-## What is AI-Circle?
-
-AI-Circle is an open source organization. We are interested in AI competitions and feel it's cool to make neural nets uncool again.
-
-AI圈是一个开源组织。我们对人工智能的竞赛很感兴趣，让神经网络变得不再酷是件酷爆的事。
-
-This is [our competition experience](https://github.com/AIGroup-Z/Awesome-AI-Competition/blob/master/honor.md), More info [here](https://zhuanlan.zhihu.com/c_1059141282965864448).
-
-这是我们的竞赛经历和专栏。
-
 ## Main Contents
 
 In process(进行中的竞赛)：
@@ -31,11 +21,22 @@ Completed(已结束)：
 
 ## Recommend Platform
 
+推荐的AI竞赛平台
+
 |[Alibaba Tianchi](https://tianchi.aliyun.com/home/)|[Kaggle](https://www.kaggle.com/)|[AI Challenge](https://challenger.ai/competitions)|
 |----|----|----|
+|[Biendata](https://biendata.com/)|[Data Castle](http://www.pkbigdata.com/common/cmptIndex.html)|[Data Fountain](https://www.datafountain.cn/)|
 
-[Biendata](https://biendata.com/)|[Data Castle](http://www.pkbigdata.com/common/cmptIndex.html)|[Data Fountain](https://www.datafountain.cn/)|
-|----|----|----|
+
+## What is AI-Circle?
+
+AI-Circle is an open source organization. We are interested in AI competitions and feel it's cool to make neural nets uncool again.
+
+AI圈是一个开源组织。我们对人工智能的竞赛很感兴趣，让神经网络变得不再酷是件酷爆的事。
+
+This is [our competition experience](https://github.com/AIGroup-Z/Awesome-AI-Competition/blob/master/honor.md), More info [here](https://zhuanlan.zhihu.com/c_1059141282965864448).
+
+这是我们的竞赛经历和专栏。
 
 
 
