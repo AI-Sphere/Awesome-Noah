@@ -1,4 +1,11 @@
 
+
+<div align="center">
+  <a href="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15504154942327.jpg">
+    <img width="30" heigth="30" src="./favicon.ico">
+  </a>
+</div>
+
 # Awesome-AI-Competition [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome AI Competitions codes, insights and post-match summaries.
@@ -16,6 +23,7 @@ In process(进行中的竞赛)：
 Completed(已结束)：
 
 - [NLP (自然语言处理)](https://github.com/AIGroup-Z/Awesome-AI-Competition/tree/master/NLP)
+    - [2018 CCL 客服领域用户意图分类评测](https://github.com/AIGroup-Z/Awesome-AI-Competition/tree/master/NLP/2018%20CCL%20%E5%AE%A2%E6%9C%8D%E9%A2%86%E5%9F%9F%E7%94%A8%E6%88%B7%E6%84%8F%E5%9B%BE%E5%88%86%E7%B1%BB%E8%AF%84%E6%B5%8B)
 - [CV (计算机视觉)](https://github.com/AIGroup-Z/Awesome-AI-Competition/tree/master/CV)
 - [Data Mining (数据挖掘)](https://github.com/AIGroup-Z/Awesome-AI-Competition/tree/master/Data%20Mining)
 
