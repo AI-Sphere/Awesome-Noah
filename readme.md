@@ -1,8 +1,8 @@
 
 
 <div align="center">
-  <a href="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15504154942327.jpg">
-    <img width="30" heigth="30" src="./favicon.ico">
+  <a href="https://zhuanlan.zhihu.com/c_1059141282965864448">
+    <img width="30" heigth="30" src="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/15504154942327.jpg">
   </a>
 </div>
 
