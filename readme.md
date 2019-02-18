@@ -10,6 +10,8 @@ A curated list of awesome Artificial Intelligence (AI) Competitions codes, insig
 
 AI圈维护的-精彩的人工智能比赛代码、思路和赛后总结。
 
+持续更新，欢迎watch。
+
 ## Main Contents
 
 Ongoing(进行中的竞赛)：
