@@ -1,9 +1,9 @@
 
-# 2018 CCL 客服领域用户意图分类评测
+# 2018JDATA 用户购买时间预测
 
 比赛链接：You can search it on baidu or google.
 
 ## 解决方案
 |排名|地址|
 |----|----|
-|Rank1|https://github.com/nlpjoe/2018-CCL-UIIMCS|
+|Rank9|https://zhuanlan.zhihu.com/p/45141799|

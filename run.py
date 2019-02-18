@@ -1,0 +1,63 @@
+# -*- coding: UTF-8 -*-.
+import json
+import os
+import urllib.parse
+
+cv = './AIMaintainable/cv.json'
+nlp = './AIMaintainable/nlp.json'
+dm = './AIMaintainable/data_mining.json'
+ongoing = './AIMaintainable/ongoing.json'
+
+base_url = "https://github.com/AICircle/Awesome-AI-Competitions/tree/master/"
+
+header_tmp = """
+# {}
+
+比赛链接：{}
+
+## 解决方案
+|排名|地址|
+|----|----|
+"""
+
+def generate_sub_md(path, prefix='NLP'):
+    try:
+        contents = json.load(open('%s' % path, encoding='utf-8'))
+    except:
+        print("JSON FORMAT ERROR: please check your %s file." % path)
+        exit(1)
+
+    res_dct = {}
+    for content in contents:
+        os.makedirs('{}/{}'.format(prefix, content['title']), exist_ok=True)
+        with open('{}/{}/readme.md'.format(prefix, content['title']), 'w') as fout:
+            if not content['game link']:
+                content['game link'] = 'You can search it on baidu or google.'
+            concat_md = header_tmp.format(content['title'], content['game link'])
+            for k, v in content['solutions'].items():
+                if type(v) is list:
+                    v = '<br>'.join(v)
+                concat_md += "|{}|{}|\n".format(k, v)
+            fout.write(concat_md)
+            concat_url = base_url + '{}/{}'.format(prefix, content['title'])
+            encode_url = urllib.parse.quote(concat_url)
+            res_dct[(content['title'], encode_url)] = len(content['solutions'])
+    return [i[0] for i in sorted(res_dct.items(), key=lambda d:d[1], reverse=True)]
+
+def generate_home_md(contents):
+    md = '\n'.join(['    - [{}]({})'.format(c[0], c[1]) for c in contents])
+    return md
+
+cv = generate_sub_md(cv, 'CV')
+nlp = generate_sub_md(nlp, 'NLP')
+dm = generate_sub_md(dm, 'Data Mining')
+ongoing = generate_sub_md(ongoing, 'Ongoing')
+
+
+with open('./RenderTemplete/home.md', 'r') as fin, open('readme.md', 'w') as fout:
+    s = ''.join(fin.readlines())
+    ongoing_1 = '\n'.join(['- [{}]({})'.format(c[0], c[1]) for c in ongoing])
+    nlp_2 = generate_home_md(nlp)
+    cv_3 = generate_home_md(cv)
+    dm_4 = generate_home_md(dm)
+    fout.write(s.format(ongoing_1, nlp_2, cv_3, dm_4))

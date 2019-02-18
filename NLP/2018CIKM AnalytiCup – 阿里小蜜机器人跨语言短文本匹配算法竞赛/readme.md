@@ -1,7 +1,9 @@
+
 # 2018CIKM AnalytiCup – 阿里小蜜机器人跨语言短文本匹配算法竞赛
 
-## 解决方案
+比赛链接：You can search it on baidu or google.
 
+## 解决方案
 |排名|地址|
 |----|----|
 |Rank2|https://github.com/zake7749/Closer|

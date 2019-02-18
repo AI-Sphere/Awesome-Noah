@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "title": "2018 Kaggle TGS Salt Identification Challenge",
+        "game link": "https://www.kaggle.com/c/tgs-salt-identification-challenge",
+        "solutions": {
+            "Rank1": "http://t.cn/EzkDlOC",
+            "Rank4": [
+                "http://t.cn/EzuvemA",
+                "http://t.cn/EzuPvfp"
+            ],
+            "Rank5": "https://zhuanlan.zhihu.com/p/47412338",
+            "Rank9": "http://t.cn/EznzvYv",
+            "Rank11": "https://github.com/iasawseen/Kaggle-TGS-salt-solution",
+            "Rank15": "https://github.com/adam9500370/Kaggle-TGS",
+            "Rank22": "http://t.cn/EzYkR6i",
+            "Rank56": "https://github.com/Gary-Deeplearning/TGS-Salt"
+        }
+    },
+    {
+        "id": 2,
+        "title": "2018 Kaggle Google地标检索",
+        "game link": "https://www.kaggle.com/google/google-landmarks-dataset/home",
+        "solutions": {
+            "Rank1": "http://t.cn/R1i7Xiy",
+            "Rank14": "http://t.cn/R1nQriY"
+        }
+    },
+    {
+        "id": 3,
+        "title": "2018 Lyft自动驾驶感知挑战赛",
+        "game link": "http://t.cn/RBtrJcE",
+        "solutions": {
+            "Rank4": [
+                "http://t.cn/RBtrMdw",
+                "http://t.cn/RBJnlug"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "title": "2018 Kaggle CVPR WAD视频分割",
+        "game link": "https://www.kaggle.com/c/cvpr-2018-autonomous-driving",
+        "solutions": {
+            "Rank2": "http://t.cn/Ehp4Ggm"
+        }
+    },
+    {
+        "id": 5,
+        "title": "2018 Kaggle Google AI Open Images",
+        "game link": "https://www.kaggle.com/c/google-ai-open-images-object-detection-track#Deion",
+        "solutions": {
+            "Rank15": "http://t.cn/RF1jnis"
+        }
+    },
+    {
+        "id": 6,
+        "title": "2018 Kaggle植物幼苗图像分类挑战赛",
+        "game link": "https://www.kaggle.com/c/plant-seedlings-classification",
+        "solutions": {
+            "Rank1": "http://t.cn/RBssjf6"
+        }
+    },
+    {
+        "id": 7,
+        "title": "2018 Kaggle Airbus Ship Detection Challenge (Kaggle卫星图像船舶检测比赛)",
+        "game link": "https://www.kaggle.com/c/airbus-ship-detection",
+        "solutions": {
+            "Rank8": "https://github.com/SeuTao/Kaggle_Airbus2018_8th_code",
+            "Rank21": "https://github.com/pascal1129/kaggle_airbus_ship_detection"
+        }
+    },
+    {
+        "id": 8,
+        "title": "2018 Kaggle RSNA Pneumonia Detection Challenge",
+        "game link": "https://www.kaggle.com/c/rsna-pneumonia-detection-challenge#Timeline",
+        "solutions": {
+            "Rank1": "https://github.com/i-pan/kaggle-rsna18",
+            "Rank2": "https://github.com/SeuTao/Kaggle_TGS2018_4th_solution",
+            "Rank3": "https://github.com/pmcheng/rsna-pneumonia",
+            "Rank6": "https://github.com/pfnet-research/pfneumonia",
+            "Rank10": "https://github.com/alessonscap/rsna-challenge-2018"
+        }
+    },
+    {
+        "id": 9,
+        "title": "2018 Kaggle PLAsTiCC Astronomical Classification Competition（PLAsTiCC 天文分类比赛）",
+        "game link": "https://www.kaggle.com/c/PLAsTiCC-2018",
+        "solutions": {
+            "Rank1": "https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75033",
+            "Rank2": "https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75059",
+            "Rank3": [
+                "https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75116",
+                "https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75131",
+                "https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75222"
+            ],
+            "Rank4": "https://github.com/aerdem4/kaggle-plasticc",
+            "Rank5": "https://www.kaggle.com/c/PLAsTiCC-2018/discussion/75040"
+        }
+    },
+    {
+        "id": 10,
+        "title": "2019 Kaggle Human Protein Atlas Image Classification Challenge（Kaggle 人类蛋白质图谱图像分类比赛）",
+        "game link": "https://www.kaggle.com/c/human-protein-atlas-image-classification",
+        "solutions": {
+            "Rank3": "https://github.com/pudae/kaggle-hpa"
+        }
+    }
+]
