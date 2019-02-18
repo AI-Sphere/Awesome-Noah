@@ -1,6 +1,5 @@
-# How to contribute
+# 如何为开源贡献
 
-## 中文
 
 <div align="center">
 <font color="red"><b>学习道路千万条，帮助开源第一条。</b></font>
@@ -31,7 +30,7 @@ PS: 收到您的PR，我们会运行`python run.py`生成最终readme文件(您�
 python run.py
 ```
 
-## English
+## How to contribute
 
 It's very easy to make a contribution for the repo!
 
