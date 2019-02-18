@@ -102,5 +102,15 @@
             "Rank16": "https://github.com/xueyouluo/fsauor2018",
             "Rank17": "https://github.com/BigHeartC/Al_challenger_2018_sentiment_analysis"
         }
+    },
+    {
+        "id": 11,
+        "title": "2018 kaggle quora insincere questions classification",
+        "game link": "",
+        "solutions": {
+            "Rank1": "https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568",
+            "Rank13": "https://mp.weixin.qq.com/s/DD-BOtPbGCXvxfFxL-qOgg",
+            "Rank153": "https://github.com/jetou/kaggle-qiqc"
+        }
     }
 ]
