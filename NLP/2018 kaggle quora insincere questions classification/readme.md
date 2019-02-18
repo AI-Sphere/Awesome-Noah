@@ -1,7 +1,7 @@
 
 # 2018 kaggle quora insincere questions classification
 
-比赛链接：You can search it on baidu or google.
+比赛链接：https://www.kaggle.com/c/quora-insincere-questions-classification
 
 ## 解决方案
 |排名|地址|
