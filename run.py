@@ -3,14 +3,16 @@ import json
 import os
 import urllib.parse
 
-cv = './AIMaintainable/cv.json'
-nlp = './AIMaintainable/nlp.json'
-dm = './AIMaintainable/data_mining.json'
-ongoing = './AIMaintainable/ongoing.json'
+cv = './InfoCenter/cv.json'
+nlp = './InfoCenter/nlp.json'
+dm = './InfoCenter/data_mining.json'
+ongoing = './InfoCenter/ongoing.json'
 
 base_url = "https://github.com/AICircle/Awesome-AI-Competitions/tree/master/"
 
-header_tmp = """
+
+def generate_sub_md(path, prefix='NLP'):
+    header_tmp = """
 # {}
 
 比赛链接：{}
@@ -20,7 +22,6 @@ header_tmp = """
 |----|----|
 """
 
-def generate_sub_md(path, prefix='NLP'):
     try:
         contents = json.load(open('%s' % path, encoding='utf-8'))
     except:
@@ -55,7 +56,7 @@ dm = generate_sub_md(dm, 'Data Mining')
 ongoing = generate_sub_md(ongoing, 'Ongoing')
 
 
-with open('./RenderTemplete/home.md', 'r') as fin, open('readme.md', 'w') as fout:
+with open('./res/home_templete.md', 'r') as fin, open('readme.md', 'w') as fout:
     s = ''.join(fin.readlines())
     ongoing_1 = '\n'.join(['- [{}]({})'.format(c[0], c[1]) for c in ongoing])
     nlp_2 = generate_home_md(nlp)

@@ -1,7 +1,7 @@
 
 # 2018 DC达观杯文本智能处理挑战
 
-比赛链接：You can search it on baidu or google.
+比赛链接：http://www.pkbigdata.com/common/cmpt/“达观杯”文本智能处理挑战赛_赛体与数据.html
 
 ## 解决方案
 |排名|地址|

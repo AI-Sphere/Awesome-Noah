@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "2018 DC达观杯文本智能处理挑战",
-        "game link": "",
+        "game link": "http://www.pkbigdata.com/common/cmpt/“达观杯”文本智能处理挑战赛_赛体与数据.html",
         "solutions": {
             "Rank1": "https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess",
             "Rank2": "https://github.com/CortexFoundation/-",

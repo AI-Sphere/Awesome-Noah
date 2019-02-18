@@ -12,7 +12,7 @@ AI圈维护的-精彩的人工智能比赛代码、思路和赛后总结。
 
 ## Main Contents
 
-In process(进行中的竞赛)：
+Ongoing(进行中的竞赛)：
 
 - [AI圈组队竞赛活动进行中](https://mp.weixin.qq.com/mp/homepage?__biz=MzU4OTczNTg2OQ==&hid=5&sn=c7f2ea65029a7e495469176a11d4c72e&scene=1&devicetype=iOS12.0.1&version=17000324&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_f8c3803b1b4d&fontScale=100)
 - [ICME2019&字节跳动 短视频内容理解与推荐竞赛](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/Ongoing/ICME2019%26%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%20%E7%9F%AD%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E7%90%86%E8%A7%A3%E4%B8%8E%E6%8E%A8%E8%8D%90%E7%AB%9E%E8%B5%9B)
@@ -88,11 +88,21 @@ AI-Circle is an open source organization. We are interested in AI competitions a
 
 AI圈是一个开源组织。我们对人工智能的竞赛很感兴趣，让神经网络变得不再酷是件酷爆的事。
 
-This is [our competition experience](https://github.com/AIGroup-Z/Awesome-AI-Competition/blob/master/honor.md), More info [here](https://zhuanlan.zhihu.com/c_1059141282965864448).
+This is [our competition experience](https://github.com/AIGroup-Z/Awesome-AI-Competition/blob/master/res/honor.md), More info [here](https://zhuanlan.zhihu.com/c_1059141282965864448).
 
 这是我们的竞赛经历和专栏。
+
+## How to Contribute
+
+It's very easy to make a contribution for the repo. Please read contribute.md.
+
+为此仓库贡献非常简单，请读[contribute.md](https://github.com/AICircle/Awesome-AI-Competitions/blob/master/res/contribute.md).
+
+Thank [all contributors!](https://github.com/AICircle/Awesome-AI-Competitions/graphs/contributors)
 
 ## Acknowledgments and other useful listings
 
 - [Data competition Top Solution 数据竞赛top解决方案开源整理](https://github.com/Smilexuhc/Data-Competition-TopSolution) by [@Smilexuhc](https://github.com/Smilexuhc)
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+
+
