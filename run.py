@@ -39,9 +39,10 @@ def generate_sub_md(path, prefix='NLP'):
                     v = '<br>'.join(v)
                 concat_md += "|{}|{}|\n".format(k, v)
             fout.write(concat_md)
-            concat_url = base_url + '{}/{}'.format(prefix, content['title'])
-            encode_url = urllib.parse.quote(concat_url)
-            res_dct[(content['title'], encode_url)] = len(content['solutions'])
+            encoded_prefix = urllib.parse.quote(prefix)
+            encoded_title = urllib.parse.quote(content['title'])
+            concat_url = base_url + '{}/{}'.format(encoded_prefix, encoded_title)
+            res_dct[(content['title'], concat_url)] = len(content['solutions'])
     return [i[0] for i in sorted(res_dct.items(), key=lambda d:d[1], reverse=True)]
 
 def generate_home_md(contents):
