@@ -9,6 +9,7 @@
 |Rank1|https://github.com/ShawnyXiao/2018-DC-DataGrand-TextIntelProcess|
 |Rank2|https://github.com/CortexFoundation/-|
 |Rank4|https://github.com/hecongqing/2018-daguan-competition|
+|Rank7|https://github.com/RocketGirls3/daguan-7th-solution|
 |Rank8|https://github.com/Rowchen/Text-classifier|
 |Rank10|https://github.com/moneyDboat/data_grand|
 |Rank11|https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11|
