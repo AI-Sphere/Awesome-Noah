@@ -22,11 +22,11 @@ Ongoing(进行中的竞赛)：
 
 Completed(已结束)：
 
-- [NLP (自然语言处理)](https://github.com/AICircle/Awesome-AI-Competition/tree/master/NLP)
+- NLP (自然语言处理)
 {}
-- [CV (计算机视觉)](https://github.com/AICircle/Awesome-AI-Competition/tree/master/CV)
+- CV (计算机视觉)
 {}
-- [Data Mining (数据挖掘)](https://github.com/AICircle/Awesome-AI-Competition/tree/master/Data%20Mining)
+- Data Mining (数据挖掘)
 {}
 
 ## Recommend Platform
