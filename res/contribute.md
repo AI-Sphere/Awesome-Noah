@@ -10,7 +10,7 @@
 1. 点击右上角的*Fork*，让自己的repo列表里也有本项目
 2. 点进`InfoCenter`文件夹，把您收集到的竞赛信息添加到对应的Json文件末尾
 3. 在项目页面左侧，点击 New pull requests (可以百度一下如何发起pull requests)
-4. 等我merge
+4. 等管理员merge
 
 ## How to contribute
 
