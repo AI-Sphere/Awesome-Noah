@@ -35,6 +35,7 @@ Completed(已结束)：
     - [2018 CCL 客服领域用户意图分类评测](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/NLP/2018%20CCL%20%E5%AE%A2%E6%9C%8D%E9%A2%86%E5%9F%9F%E7%94%A8%E6%88%B7%E6%84%8F%E5%9B%BE%E5%88%86%E7%B1%BB%E8%AF%84%E6%B5%8B)
     - [2018 第二届搜狐内容识别大赛](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/NLP/2018%20%E7%AC%AC%E4%BA%8C%E5%B1%8A%E6%90%9C%E7%8B%90%E5%86%85%E5%AE%B9%E8%AF%86%E5%88%AB%E5%A4%A7%E8%B5%9B)
     - [2018 科赛 - 百度 PaddlePaddle AI 大赛——智能问答](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/NLP/2018%20%E7%A7%91%E8%B5%9B%20-%20%E7%99%BE%E5%BA%A6%20PaddlePaddle%20AI%20%E5%A4%A7%E8%B5%9B%E2%80%94%E2%80%94%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94)
+
 - CV (计算机视觉)
     - [2018 Kaggle TGS Salt Identification Challenge](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/CV/2018%20Kaggle%20TGS%20Salt%20Identification%20Challenge)
     - [2018 Kaggle RSNA Pneumonia Detection Challenge](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/CV/2018%20Kaggle%20RSNA%20Pneumonia%20Detection%20Challenge)
@@ -46,6 +47,7 @@ Completed(已结束)：
     - [2018 Kaggle Google AI Open Images](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/CV/2018%20Kaggle%20Google%20AI%20Open%20Images)
     - [2018 Kaggle植物幼苗图像分类挑战赛](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/CV/2018%20Kaggle%E6%A4%8D%E7%89%A9%E5%B9%BC%E8%8B%97%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%8C%91%E6%88%98%E8%B5%9B)
     - [2019 Kaggle Human Protein Atlas Image Classification Challenge（Kaggle 人类蛋白质图谱图像分类比赛）](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/CV/2019%20Kaggle%20Human%20Protein%20Atlas%20Image%20Classification%20Challenge%EF%BC%88Kaggle%20%E4%BA%BA%E7%B1%BB%E8%9B%8B%E7%99%BD%E8%B4%A8%E5%9B%BE%E8%B0%B1%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB%E6%AF%94%E8%B5%9B%EF%BC%89)
+
 - Data Mining (数据挖掘)
     - [2018 IJCAI 阿里妈妈搜索广告转化预测](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/Data%20Mining/2018%20IJCAI%20%E9%98%BF%E9%87%8C%E5%A6%88%E5%A6%88%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E8%BD%AC%E5%8C%96%E9%A2%84%E6%B5%8B)
     - [2018腾讯广告算法大赛](https://github.com/AICircle/Awesome-AI-Competitions/tree/master/Data%20Mining/2018%E8%85%BE%E8%AE%AF%E5%B9%BF%E5%91%8A%E7%AE%97%E6%B3%95%E5%A4%A7%E8%B5%9B)
