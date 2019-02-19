@@ -116,4 +116,16 @@
             "Rank483": "https://github.com/feifei9099/kaggle_quora_classification"
         }
     }
+    {
+        "id": 12,
+        "title": "2018 kaggle Toxic Comment Classification Challenge",
+        "game link": "https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge",
+        "solutions": {
+            "Rank15": "https://github.com/soham97/Toxic-Comment-Classification-Challenge-NLP",
+            "Rank15(2)": "https://mp.weixin.qq.com/s/DD-BOtPbGCXvxfFxL-qOgg",
+            "Rank21": "https://github.com/sparkingarthur/kaggle-toxic-comment",
+            "Rank27": "https://github.com/zake7749/DeepToxic",
+            "Rank99": "https://github.com/AloneGu/kaggle_toxic"
+        }
+    }
 ]
