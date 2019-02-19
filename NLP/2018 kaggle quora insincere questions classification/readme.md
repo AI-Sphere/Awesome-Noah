@@ -10,3 +10,4 @@
 |Rank13|https://mp.weixin.qq.com/s/DD-BOtPbGCXvxfFxL-qOgg|
 |Silver(银牌)|https://blog.csdn.net/linxid/article/details/87383895|
 |Rank153|https://github.com/jetou/kaggle-qiqc|
+|Rank483|https://github.com/feifei9099/kaggle_quora_classification|
