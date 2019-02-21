@@ -39,13 +39,13 @@ Completed(已结束)：
 |----|----|----|
 |[Biendata](https://biendata.com/)|[Data Castle](http://www.pkbigdata.com/common/cmptIndex.html)|[Data Fountain](https://www.datafountain.cn/)|
 
-## What is AI-Circle?
+## What is AI-Sphere?
 
-AI-Circle is an open source organization. We are interested in AI competitions and feel it's cool to make neural nets uncool again.
+AI-Sphere is an open source organization. We are interested in AI competitions and feel it's cool to make neural nets uncool again.
 
 AI圈是一个开源组织。我们对人工智能的竞赛很感兴趣，让神经网络变得不再酷是件酷爆的事。
 
-This is [our competition experience](https://github.com/AIGroup-Z/Awesome-AI-Competition/blob/master/res/honor.md), More info [here](https://zhuanlan.zhihu.com/c_1059141282965864448).
+This is [our competition experience](https://github.com/AI-Sphere/Awesome-AI-Competition/blob/master/res/honor.md), More info [here](https://zhuanlan.zhihu.com/c_1059141282965864448).
 
 这是我们的竞赛经历和专栏。
 
@@ -53,9 +53,9 @@ This is [our competition experience](https://github.com/AIGroup-Z/Awesome-AI-Com
 
 It's very easy to make a contribution for the repo. Please read contribute.md.
 
-为此仓库贡献非常简单，请读[contribute.md](https://github.com/AICircle/Awesome-AI-Competitions/blob/master/res/contribute.md).
+为此仓库贡献非常简单，请读[contribute.md](https://github.com/AI-Sphere/Awesome-AI-Competitions/blob/master/res/contribute.md).
 
-Thank [all contributors!](https://github.com/AICircle/Awesome-AI-Competitions/graphs/contributors)
+Thank [all contributors!](https://github.com/AI-Sphere/Awesome-AI-Competitions/graphs/contributors)
 
 ## Acknowledgments and other useful listings
 

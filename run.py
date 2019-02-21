@@ -8,7 +8,7 @@ nlp = './InfoCenter/nlp.json'
 dm = './InfoCenter/data_mining.json'
 ongoing = './InfoCenter/ongoing.json'
 
-base_url = "https://github.com/AICircle/Awesome-AI-Competitions/tree/master/"
+base_url = "https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/"
 
 
 def generate_sub_md(path, prefix='NLP'):
