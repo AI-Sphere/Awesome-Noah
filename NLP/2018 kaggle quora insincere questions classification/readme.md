@@ -11,3 +11,4 @@
 |Silver(银牌)|https://blog.csdn.net/linxid/article/details/87383895|
 |Rank153|https://github.com/jetou/kaggle-qiqc|
 |Rank483|https://github.com/feifei9099/kaggle_quora_classification|
+|AI圈成员文章|https://zhuanlan.zhihu.com/p/54741029<br>https://zhuanlan.zhihu.com/p/56796828<br>https://zhuanlan.zhihu.com/p/55253971<br>https://zhuanlan.zhihu.com/p/54830368<br>https://zhuanlan.zhihu.com/p/56501536<br>https://zhuanlan.zhihu.com/p/57015732<br>https://zhuanlan.zhihu.com/p/57087361<br>https://zhuanlan.zhihu.com/p/55320266<br>https://zhuanlan.zhihu.com/p/57413845<br>https://zhuanlan.zhihu.com/p/56890484|

@@ -24,8 +24,8 @@ Completed(已结束)：
 
 - NLP (自然语言处理)
     - [2018 DC达观杯文本智能处理挑战](https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/NLP/2018%20DC%E8%BE%BE%E8%A7%82%E6%9D%AF%E6%96%87%E6%9C%AC%E6%99%BA%E8%83%BD%E5%A4%84%E7%90%86%E6%8C%91%E6%88%98)
-    - [2018 知乎看山杯](https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/NLP/2018%20%E7%9F%A5%E4%B9%8E%E7%9C%8B%E5%B1%B1%E6%9D%AF)
     - [2018 kaggle quora insincere questions classification](https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/NLP/2018%20kaggle%20quora%20insincere%20questions%20classification)
+    - [2018 知乎看山杯](https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/NLP/2018%20%E7%9F%A5%E4%B9%8E%E7%9C%8B%E5%B1%B1%E6%9D%AF)
     - [2018 kaggle Toxic Comment Classification Challenge](https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/NLP/2018%20kaggle%20Toxic%20Comment%20Classification%20Challenge)
     - [2018 智能客服问题相似度算法设计——第三届魔镜杯大赛](https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/NLP/2018%20%E6%99%BA%E8%83%BD%E5%AE%A2%E6%9C%8D%E9%97%AE%E9%A2%98%E7%9B%B8%E4%BC%BC%E5%BA%A6%E7%AE%97%E6%B3%95%E8%AE%BE%E8%AE%A1%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%89%E5%B1%8A%E9%AD%94%E9%95%9C%E6%9D%AF%E5%A4%A7%E8%B5%9B)
     - [2018CIKM AnalytiCup – 阿里小蜜机器人跨语言短文本匹配算法竞赛](https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/NLP/2018CIKM%20AnalytiCup%20%E2%80%93%20%E9%98%BF%E9%87%8C%E5%B0%8F%E8%9C%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%A8%E8%AF%AD%E8%A8%80%E7%9F%AD%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B)
