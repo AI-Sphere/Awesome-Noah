@@ -45,9 +45,9 @@ AI-Sphere is an open source organization. We are interested in AI competitions a
 
 AI圈是一个开源组织。我们对人工智能的竞赛很感兴趣，让神经网络变得不再酷是件酷爆的事。
 
-This is [our competition experience](https://github.com/AI-Sphere/Awesome-AI-Competition/blob/master/res/honor.md), More info [here](https://zhuanlan.zhihu.com/c_1059141282965864448).
+This is our competition experience, More info here. You can give us funding here.
 
-这是我们的竞赛经历和专栏。
+这是我们的[竞赛经历](https://github.com/AI-Sphere/Awesome-AI-Competition/blob/master/res/honor.md)和[专栏](https://zhuanlan.zhihu.com/c_1059141282965864448)。您可以在[这里资助我们](https://github.com/AI-Sphere/Awesome-AI-Competitions/blob/master/res/home.md)。
 
 ## How to Contribute
 
