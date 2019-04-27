@@ -32,3 +32,8 @@ AI圈欢迎各位竞赛爱好者加入我们，一起共建开源竞赛学习社
 
 
 
+<div align="center">
+  <a href="https://zhuanlan.zhihu.com/c_1059141282965864448">
+    <img width="200" heigth="200" src="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/%E6%89%AB%E7%A0%81%E5%85%AC%E4%BC%97%E5%8F%B7.png">
+  </a>
+</div>

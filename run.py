@@ -8,7 +8,7 @@ nlp = './InfoCenter/nlp.json'
 dm = './InfoCenter/data_mining.json'
 # ongoing = './InfoCenter/ongoing.json'
 
-base_url = "https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/"
+base_url = "https://github.com/AI-Sphere/Awesome-Noah/tree/master/"
 
 header_tmp = """
 # {}
