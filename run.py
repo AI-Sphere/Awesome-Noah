@@ -6,13 +6,11 @@ import urllib.parse
 cv = './InfoCenter/cv.json'
 nlp = './InfoCenter/nlp.json'
 dm = './InfoCenter/data_mining.json'
-ongoing = './InfoCenter/ongoing.json'
+# ongoing = './InfoCenter/ongoing.json'
 
 base_url = "https://github.com/AI-Sphere/Awesome-AI-Competitions/tree/master/"
 
-
-def generate_sub_md(path, prefix='NLP'):
-    header_tmp = """
+header_tmp = """
 # {}
 
 比赛链接：{}
@@ -21,6 +19,9 @@ def generate_sub_md(path, prefix='NLP'):
 |排名|地址|
 |----|----|
 """
+
+def generate_sub_md(path, prefix='NLP'):
+
 
     try:
         contents = json.load(open('%s' % path, encoding='utf-8'))
@@ -53,13 +54,13 @@ def generate_home_md(contents):
 cv = generate_sub_md(cv, 'CV')
 nlp = generate_sub_md(nlp, 'NLP')
 dm = generate_sub_md(dm, 'Data Mining')
-ongoing = generate_sub_md(ongoing, 'Ongoing')
+# ongoing = generate_sub_md(ongoing, 'Ongoing')
 
 
 with open('./res/home_templete.md', 'r') as fin, open('readme.md', 'w') as fout:
     s = ''.join(fin.readlines())
-    ongoing_1 = '\n'.join(['- [{}]({})'.format(c[0], c[1]) for c in ongoing])
-    nlp_2 = generate_home_md(nlp)
-    cv_3 = generate_home_md(cv)
-    dm_4 = generate_home_md(dm)
-    fout.write(s.format(ongoing_1, nlp_2, cv_3, dm_4))
+    # ongoing_1 = '\n'.join(['- [{}]({})'.format(c[0], c[1]) for c in ongoing])
+    nlp = generate_home_md(nlp)
+    cv = generate_home_md(cv)
+    dm = generate_home_md(dm)
+    fout.write(s.format(nlp, cv, dm))
