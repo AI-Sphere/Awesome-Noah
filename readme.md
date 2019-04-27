@@ -25,9 +25,10 @@ AI圈是一个开源组织。主要由在校AI竞赛爱好者、kaggle master、
 
 <div align="center">
   <a href="https://zhuanlan.zhihu.com/c_1059141282965864448">
-    <img width="200" heigth="200" src="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/%E6%89%AB%E7%A0%81%E5%85%AC%E4%BC%97%E5%8F%B7.png">
+    <img width="150" heigth="150" src="https://aigroupz-1258285787.cos.ap-shanghai.myqcloud.com/blog/%E6%89%AB%E7%A0%81%E5%85%AC%E4%BC%97%E5%8F%B7.png">
   </a>
 </div>
+
 
 ## Main Contents
 
